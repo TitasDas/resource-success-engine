@@ -1,4 +1,4 @@
-# Float Project Success Predictor
+# Project Success Predictor
 
 This project predicts the likelihood of project success using resource allocation, team structure, and cost-performance indicators. It leverages interpretable machine learning techniques and provides tooling for explainability, tuning, and modeling experimentation.
 
