@@ -1,0 +1,11 @@
+lightgbm
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+shap
+joblib
+pytest
+plotly
+umap-learn

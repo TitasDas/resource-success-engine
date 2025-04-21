@@ -1,0 +1,36 @@
+id,name
+1,Integrations
+2,Technical Debt
+3,Core Features
+4,Reporting
+5,User Feedback
+6,Onboarding
+7,Admin Features
+8,Enterprise customers
+101,Department: Engineering
+102,Department: Product
+103,Role: BE Engineer
+104,Role: FE Engineer
+105,Role: Designer
+106,Role: Product Manager
+107,Level: Junior
+108,Level: Mid
+109,Level: Senior
+110,Level: Lead
+111,Location: AMER
+112,Location: EMEA
+113,Location: APAC
+114,Location: Remote
+115,Skill: MySQL
+116,Skill: MongoDB
+117,Skill: Typescript
+118,Skill: PHP
+119,Skill: React
+120,Skill: React Native
+121,Skill: UX
+122,Skill: Accessibility
+123,Skill: Figma
+124,Skill: User Research
+125,Skill: Wireframing
+126,Skill: Market Analysis
+127,Skill: Roadmap Planning
