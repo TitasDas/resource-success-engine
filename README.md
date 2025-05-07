@@ -15,13 +15,7 @@ The solution includes:
 
 ## Setup
 
-Clone the repository and install the requirements:
-
-```bash
-git clone https://github.com/julia-fulton/titas-das.git
-cd float-project
-pip install -r requirements.txt
-```
+Clone the repository and install the requirements
 
 ## Running the Pipeline
 
@@ -167,7 +161,7 @@ Deletes temporary `.pkl`, `.pyc`, and cached files. The `models/` directory is p
 ├── run.py
 ├── makefile
 ├── requirements.txt
-└── README.md (original readme given by Float)
+└── README.md ()
 ```
 
 ## Future Directions and Model Strategy
