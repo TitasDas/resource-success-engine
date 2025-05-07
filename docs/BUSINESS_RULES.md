@@ -3,7 +3,7 @@
 Consider the following business rules when evaluating the assignment:
 
 - Projects help you organize your tasks and team together in one place.
-- People are full-time or part-time employees that you want to schedule within Float.
+- People are full-time or part-time employees that you want to schedule within a company.
 - People and projects may have tags to add additional context to their data.
 - Each project has a Project Manager, who allocates tasks to their team.
 - Hour logging is the process of recording time spent on work-related activities. At Float, employees log their hours to keep track of how much time they dedicate to specific tasks and projects. This can be done in two ways: (1) by logging time against suggested tasks that have been assigned to them, or (2) by manually entering hours for tasks they worked on, as long as they specify the relevant project and task details.
